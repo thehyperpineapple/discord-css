@@ -1,0 +1,112 @@
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --text-link: #00b0f4;
+    --channels-default: #8e9297;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: #1d1d1d;
+    --background-secondary: #141414;
+    --background-secondary-alt: #0a0a0a;
+    --background-tertiary: #101010;
+    --background-accent: #000;
+    --background-floating: #141414;
+    --background-mobile-primary: #212121;
+    --background-mobile-secondary: #101010;
+    --background-modifier-hover: rgba(79,84,92,0.16);
+    --background-modifier-active: rgba(79,84,92,0.24);
+    --background-modifier-selected: rgba(79,84,92,0.32);
+    --background-modifier-accent: hsla(0,0%,100%,0.06);
+    --background-mentioned: rgba(250,166,26,0.05);
+    --background-mentioned-hover: rgba(250,166,26,0.08);
+    --background-message-hover: rgba(4,4,5,0.07);
+    --background-help-warning: rgba(250,166,26,0.1);
+    --background-help-info: rgba(0,176,244,0.1);
+    --scrollbar-thin-thumb: #000;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #000;
+    --scrollbar-auto-track: transparent;
+    --scrollbar-auto-scrollbar-color-thumb: #000;;
+    --scrollbar-auto-scrollbar-color-track: transparent;
+    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15);
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+    --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+    --logo-primary: #fff;
+    --focus-primary: #00b0f4;
+    --radio-group-dot-foreground: #8ea1e1;
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+    --channeltextarea-background: #141414;
+    --activity-card-background: red;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-card-bg: rgba(32,34,37,0.6);
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3);
+    --deprecated-store-bg: #141414;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+    --deprecated-text-input-bg: rgba(0,0,0,0.1);
+    --deprecated-text-input-border: rgba(0,0,0,0.3);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+}
+.container-1D34oG {
+    background-color: #212121 !important;
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #212121;
+}
+.theme-dark .headerNormal-T_seeN {
+    background-color: #141414;
+}
+.theme-dark .autocomplete-1vrmpx {
+    background-color: #101010
+}
+.theme-dark .container-3ayLPN {
+    background-color: #1a1a1a
+}
+.theme-dark .uploadModal-2ifh8j{background-color: #212121
+}
+.theme-dark .footer-3mqk7D{background-color: #141414
+}
+.peopleColumn-1wMU14 {
+    background-color: #1d1d1d
+}
+.scroller-hE2gWq {
+    background-color:#141414
+}
+.itemCard-3Etziu {
+    background-color: #1d1d1d
+}
+.section-3G9aLW:only-child {
+    background-color: #141414
+}
+.scroller-18M1mG {
+    background-color: #141414
+}
+.theme-dark .selected-3H3-RC {
+    background-color: #1d1d1d
+}
+
+.resultsGroup-1BPR25 {
+    background-color: #141414
+}
+.resultsGroup-cfY57t {
+    background-color: #141414
+
+}
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
+    background-color: #1d1d1d
+
+}
+.modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
+    background-color: #1d1d1d
+}
+
+.interactiveSelected-29CP8y {
+    background-color: #1d1d1d
+}
